@@ -11,7 +11,7 @@
 * [back-end](https://lab-09-401.herokuapp.com/)
 
 #### Documentation
-* [swagger](https://localhost:/3333/api-docs) only run after nodemon, does not work in heroku
+* [swagger](https://localhost:/3333/api-docs) only run after npm start, does not work in heroku
 
 ### Modules
 #### categories-schema.js
