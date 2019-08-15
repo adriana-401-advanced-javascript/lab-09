@@ -5,7 +5,7 @@
 ### Author: Adriana Graybill
 
 ### Links and Resources
-* [repo](https://github.com/adriana-401-advanced-javascript/lab-09/pull/2)
+* [repo](https://github.com/adriana-401-advanced-javascript/lab-09/pull/3)
 * [![Build Status](https://travis-ci.com/adriana-401-advanced-javascript/lab-09.svg?branch=master)](https://travis-ci.com/adriana-401-advanced-javascript/lab-09)
 * [Travis link](https://travis-ci.com/adriana-401-advanced-javascript/lab-09)
 * [back-end](https://lab-09-401.herokuapp.com/)
@@ -58,3 +58,5 @@ Running Mongo:
 * What assertions need to be / should be made?
 * * Assertions need to be made for the /products route to check categories 
 
+#### UML
+![Whiteboard](./assets/lab-09.jpg)
