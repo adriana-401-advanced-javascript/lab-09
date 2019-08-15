@@ -1,6 +1,6 @@
 # LAB
 
-## Project Name: LAB 14 Data Modeling and API server
+## Project Name: LAB 9 API Server
 
 ### Author: Adriana Graybill
 
