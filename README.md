@@ -5,13 +5,13 @@
 ### Author: Adriana Graybill
 
 ### Links and Resources
-* [repo](https://github.com/)
-* [![Build Status](https://www.travis-ci.com/hingham/14-orm-and-modeling.svg?branch=master)](https://www.travis-ci.com/)
-* [Travis link](https://www.travis-ci.com/g)
-* [back-end](https://.herokuapp.com/)
+* [repo](https://github.com/adriana-401-advanced-javascript/lab-09/pull/2)
+* [![Build Status](https://travis-ci.com/adriana-401-advanced-javascript/lab-09.svg?branch=master)](https://travis-ci.com/adriana-401-advanced-javascript/lab-09)
+* [Travis link](https://travis-ci.com/adriana-401-advanced-javascript/lab-09)
+* [back-end](https://lab-09-401.herokuapp.com/)
 
 #### Documentation
-* [swagger](https://herokuapp.com/doc)
+* [swagger](https://localhost:/3333/api-docs) only run after nodemon, does not work in heroku
 
 ### Modules
 #### categories-schema.js
