@@ -2,6 +2,11 @@
 
 class Model {
 
+  /**
+   *Creates an instance of Model.
+   * @param {*} schema
+   * @memberof Model
+   */
   constructor(schema) {
     this.schema = schema;
   }

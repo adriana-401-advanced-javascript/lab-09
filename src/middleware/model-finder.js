@@ -5,6 +5,13 @@ const readdir = util.promisify(fs.readdir);
 
 const modelsFolder = `${__dirname}/../models`;
 
+/**
+ *
+ *
+ * @param {*} req
+ * @param {*} res
+ * @param {*} next
+ */
 const load = (req,res,next) => {
   let modelName = req.params.model.replace(/[^a-z0-9-_]/gi, '');
   const Model = require(`../models/${modelName}/${modelName}-model.js`);
@@ -12,6 +19,11 @@ const load = (req,res,next) => {
   next();
 };
 
+/**
+ *
+ *
+ * @returns model
+ */
 const list = () => {
   return readdir(modelsFolder)
     .then(contents =>

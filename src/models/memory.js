@@ -4,6 +4,10 @@ const uuid = require('uuid/v4');
 
 class Model {
 
+  /**
+   *Creates an instance of Model.
+   * @memberof Model
+   */
   constructor() {
     this.database = [];
   }
